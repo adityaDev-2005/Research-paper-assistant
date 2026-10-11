@@ -1,0 +1,60 @@
+[
+  {
+    "question_id": "Q001",
+    "question": "What is the main goal of DINOv2?",
+    "paper_id": "CV01",
+    "relevant_chunk_ids": [
+      "CV01_chunk_0000",
+      "CV01_chunk_0001",
+      "CV01_chunk_0002",
+      "CV01_chunk_0089",
+      "CV01_chunk_0090"
+    ],
+    "answerable": true
+  },
+  {
+    "question_id": "Q002",
+    "question": "How does DINOv2 create general-purpose visual features?",
+    "paper_id": "CV01",
+    "relevant_chunk_ids": [
+      "CV01_chunk_0000",
+      "CV01_chunk_0001",
+      "CV01_chunk_0002",
+      "CV01_chunk_0089",
+      "CV01_chunk_0090"
+    ],
+    "answerable": true
+  },
+  {
+  "question_id": "Q003",
+  "question": "What role does the Vision Transformer play in DINOv2?",
+  "paper_id": "CV01",
+  "relevant_chunk_ids": [
+    "CV01_chunk_0002",
+    "CV01_chunk_0010"
+  ],
+  "answerable": true
+  },
+  {
+    "question_id": "Q004",
+    "question": "What is the main contribution of Attention Is All You Need?",
+    "paper_id": "ML03",
+    "relevant_chunk_ids": [
+      "ML03_chunk_0000",
+      "ML03_chunk_0001",
+      "ML03_chunk_0002",
+      "ML03_chunk_0006"
+    ],
+    "answerable": true
+  },
+  {
+    "question_id": "Q005",
+    "question": "What is the purpose of positional encoding in the Transformer?",
+    "paper_id": "ML03",
+    "relevant_chunk_ids": [
+      "ML03_chunk_0020",
+      "ML03_chunk_0021"
+    ],
+    "answerable": true
+  }
+]

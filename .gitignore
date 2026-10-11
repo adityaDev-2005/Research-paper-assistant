@@ -1,0 +1,46 @@
+# Python environments
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+
+# Local databases and generated vector stores
+data/vector_db/
+chroma/
+*.sqlite
+*.sqlite3
+*.db
+
+# Downloaded models and model weights
+models/
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.safetensors
+
+# Logs and temporary files
+*.log
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+
+# Downloaded research papers (keep local; do not redistribute)
+data/raw/papers/
+
+# Extracted full-text content generated from research papers
+data/processed/text/
+
+# Local backup files
+data/metadata/*.backup.csv

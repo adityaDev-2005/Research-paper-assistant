@@ -1,0 +1,38 @@
+paper_id,pdf_filename,title,domain
+CV01,DINO_v2.pdf,DINOv2: Learning Robust Visual Features without Supervision,Computer Vision
+CV02,Faster_RCNN.pdf,Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks,Computer Vision
+ML01,GANs.pdf,Generative Adversarial Nets,Machine Learning
+CV03,U-NET.pdf,U-Net: Convolutional Networks for Biomedical Image Segmentation,Computer Vision
+CV04,ViT.pdf,An Image Is Worth 16x16 Words: Transformers for Image Recognition at Scale,Computer Vision
+CV05,YOLO.pdf,"You Only Look Once: Unified, Real-Time Object Detection",Computer Vision
+ML02,adam.pdf,Adam: A Method for Stochastic Optimization,Machine Learning
+ML03,attention_is_all_you_need.pdf,Attention Is All You Need,Machine Learning
+ML04,auto_encoding.pdf,Auto-Encoding Variational Bayes,Machine Learning
+ML05,bayesian_optimization_ml.pdf,Practical Bayesian Optimization of Machine Learning Algorithms,Machine Learning
+ML06,bert.pdf,BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding,Machine Learning
+RS01,bigearthnet.pdf,BigEarthNet: A Large-Scale Benchmark Archive for Remote Sensing Image Understanding,Remote Sensing
+CV06,clip.pdf,Learning Transferable Visual Models From Natural Language Supervision,Computer Vision
+RS02,deep_learning_for_change_detection.pdf,DEEP LEARNING FOR CHANGE DETECTION IN REMOTE SENSING IMAGES: COMPREHENSIVE REVIEW AND META-ANALYSIS,Remote Sensing
+CV07,deep_residual_learning.pdf,Deep Residual Learning for Image Recognition,Computer Vision
+ROB01,deep_rl_robots.pdf,Deep Reinforcement Learning for Robotic Manipulation with Asynchronous Off-Policy Updates,Robotics
+RS03,deepglobe.pdf,DeepGlobe 2018: A Challenge to Parse the Earth through Satellite Images,Remote Sensing
+ML07,denoising_diffusion_probabilistic_models.pdf,Denoising Diffusion Probabilistic Models,Machine Learning
+ROB02,diffusion_policy_robo.pdf,Diffusion Policy: Visuomotor Policy Learning via Action Diffusion,Robotics
+RS04,eurosat.pdf,EuroSAT: A Novel Dataset and Deep Learning Benchmark for Land Use and Land Cover Classification,Remote Sensing
+CV08,image_net.pdf,ImageNet Classification with Deep Convolutional Neural Networks,Computer Vision
+RS05,levir-cd.pdf,A Spatial-Temporal Attention-Based Method and a New Dataset for Remote Sensing Image Change Detection,Remote Sensing
+RS06,loveda.pdf,LoveDA: A Remote Sensing Land-Cover Dataset for Domain Adaptive Semantic Segmentation,Remote Sensing
+CV09,mask_RCNN.pdf,Mask R-CNN,Computer Vision
+ROB03,mobile_aloha.pdf,Mobile ALOHA: Learning Bimanual Mobile Manipulation with Low-Cost Whole-Body Teleoperation,Robotics
+ROB04,open_x_embodiment.pdf,Open X-Embodiment: Robotic Learning Datasets and RT-X Models,Robotics
+ROB05,orb_slam.pdf,ORB-SLAM: a Versatile and Accurate Monocular SLAM System,Robotics
+ROB06,orb_slam2.pdf,"ORB-SLAM2: An Open-Source SLAM System for Monocular, Stereo, and RGB-D Cameras",Robotics
+RS07,prithvi_eo.pdf,Foundation Models for Generalist Geospatial Artificial Intelligence,Remote Sensing
+ML08,proximal_policy_optimization_algorithms.pdf,Proximal Policy Optimization Algorithms,Machine Learning
+ROB07,qt_opt.pdf,QT-Opt: Scalable Deep Reinforcement Learning for Vision-Based Robotic Manipulation,Robotics
+ML09,reinforcment_learning(q_learning).pdf,Deep Reinforcement Learning with Double Q-learning,Machine Learning
+ROB08,rt-1.pdf,RT-1: Robotics Transformer for Real-World Control at Scale,Robotics
+RS08,satMAE.pdf,SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery,Remote Sensing
+CV10,segment_anything.pdf,Segment Anything,Computer Vision
+RS09,sen12ms.pdf,SEN12MS: A Curated Dataset of Georeferenced Multi-Spectral Sentinel-1/2 Imagery for Deep Learning and Data Fusion,Remote Sensing
+RS10,space_net.pdf,SpaceNet: A Remote Sensing Dataset and Challenge Series,Remote Sensing
